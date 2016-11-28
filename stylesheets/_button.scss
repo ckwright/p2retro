@@ -3,18 +3,18 @@ button, .button {
   padding: 5px 8px;
   margin-left: 10px;
   overflow: hidden;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: white;
   cursor: pointer;
-  background: $light-teal;
+  background: $teal;
   border: 0;
-  border-bottom: 2px solid $dark-blue;
+  border-bottom: 2px solid $navy;
   border-radius: 2px;
   transform: translate3d(0px, 0px, 0px);
 
   &.first {
-    background: $purple;
-    border-bottom: 2px solid $light-purple;
+    background: $gold;
+    border-bottom: 2px solid $navy;
   }
 
   &:disabled {
@@ -44,7 +44,7 @@ header button:hover {
 .ngdialog-content a {
   margin-left: 10px;
   font-size: 1em;
-  color: $light-teal;
+  color: $teal;
 }
 
 .ngdialog-content button:hover, .editing-column button:hover {
@@ -68,9 +68,9 @@ header button:hover {
   margin-left: 0;
   font-size: .7em;
   line-height: 2em;
-  background: $green;
+  background: $gold;
 }
 
 .success-button, .message button {
-  border-bottom: 2px solid $light-green;
+  border-bottom: 2px solid $navy;
 }
