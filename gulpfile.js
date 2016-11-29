@@ -147,3 +147,14 @@ gulp.task('default', ['bundle', 'copy', 'express', 'livereload', 'watch']);
 gulp.task('test', ['lint', 'watch-test']);
 gulp.task('testci', ['lint', 'test-once']);
 gulp.task('build', ['clean-dist', 'bundle', 'copy']);
+
+var gulp        = require('gulp');
+var deploy      = require('gulp-gh-pages');
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
+});

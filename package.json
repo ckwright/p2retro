@@ -17,6 +17,7 @@
     "gulp-clean": "^0.3.2",
     "gulp-concat": "latest",
     "gulp-concat-css": "latest",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-jshint": "^1.11.2",
     "gulp-rename": "latest",
     "gulp-sass": "^2.0.4",
