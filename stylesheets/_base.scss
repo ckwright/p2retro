@@ -45,7 +45,7 @@ iframe {
   margin-top: 17px;
   margin-left: 10px;
   font-weight: bold;
-  color: $teal;
+  color: $gold;
   vertical-align: top;
 }
 
@@ -56,11 +56,11 @@ strong {
 }
 
 .add:hover {
-  color: $light-teal;
+  color: $teal;
 }
 
 .add i {
-  font-size: .9em;
+  font-size: 1.5em;
 }
 
 ul {
@@ -73,7 +73,7 @@ h2 {
   max-width: 85%;
   margin-bottom: 0;
   font-family: "Oswald";
-  font-size: 1.3em;
+  font-size: 1.5em;
   line-height: 1em;
   cursor: pointer;
 }
@@ -83,7 +83,7 @@ h2 {
   top: -2px;
   left: -5px;
   margin: 0;
-  font-size: .9em;
+  font-size: 1.5em;
 }
 
 .container {
@@ -106,7 +106,7 @@ h2 {
   margin-top: 5px;
   margin-left: 0;
   vertical-align: top;
-  background: $green;
+  background: $gold;
 }
 
 .column-header {
@@ -156,7 +156,7 @@ ul {
 }
 
 .pencil {
-  font-size: 13px;
+  font-size: 18px;
 }
 
 .editing .fa-times {
@@ -201,7 +201,7 @@ a {
 }
 
 img {
-  width: 13px;
+  width: 18px;
 }
 
 small {
@@ -340,7 +340,7 @@ blockquote {
     margin-top: 25px;
     font-size: 16px;
     text-transform: uppercase;
-    background: $gold;
+    background: $purple;
     border-bottom: 3px solid $light-purple;
   }
 
