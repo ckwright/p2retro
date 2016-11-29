@@ -1,14 +1,9 @@
 # Fun Retro
-Easy to use and beautiful restrospective board.
-
-Learn more about retrospectives at [funretrospectives.com](http://funretrospectives.com)
-
-[![Build](https://snap-ci.com/funretro/distributed/branch/master/build_image)](https://snap-ci.com/funretro/distributed/branch/master)
-<a href="https://codeclimate.com/github/glauberramos/fireideaz"><img src="https://codeclimate.com/github/glauberramos/fireideaz/badges/gpa.svg" /></a>&nbsp;[![devDependency Status](https://david-dm.org/funretro/distributed/dev-status.svg)](https://david-dm.org/funretro/distributed#info=devDependencies)
+P2's protoype of an easy to use use and beautiful restrospective board based on the work of [funretrospectives(https://github.com/funretro/distributed)
 
 ## User interface
 
-![Fun retro screenshot](http://i.imgur.com/iY1zc2Y.png)
+![Fun retro screenshot](http://i.imgur.com/MWdxH5l.png)
 
 ## How to setup local environment
 
